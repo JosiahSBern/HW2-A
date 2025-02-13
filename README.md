@@ -1,5 +1,5 @@
 # HW2-A 
-# Josiah St Bernard
+Josiah St Bernard
 
 
 ## Objectives
